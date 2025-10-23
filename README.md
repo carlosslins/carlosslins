@@ -18,7 +18,7 @@
 ## 🌐 Entre em contato comigo
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/carlos-eduardo-silva-lins-85534a25b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%Lins-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/carlos-eduardo-silva-lins-85534a25b)
 [![Email](https://img.shields.io/badge/Email-carloseslins.contato%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:carloseslins.contato@gmail.com)
 
 
