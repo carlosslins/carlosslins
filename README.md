@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá! Me chamo Carlos Eduardo Silva Lins</strong></h1>
 
-- 📒 Atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas
+- 📒 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS)
 - 💻 Estudando Java , banco de dados e lógica de programação
-- 🎯 Estou em busca de adquirir conhecimento e assim conseguir minha primeira vaga na área
-- 
+- 🎯 Estou em busca de adquirir conhecimento e assim conseguir minha primeira oportunidade de emprego na área
+- 🌎 Inglês (Básico)
 <div>
 </div>
 
