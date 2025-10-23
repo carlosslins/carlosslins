@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Me chamo Carlos Eduardo Silva Lins</strong></h1>
+<h1 align="center">👋 Olá! Eu me chamo Carlos Eduardo Silva Lins</strong></h1>
 
 - 📒 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS)
 - 💻 Estudando Java , banco de dados e lógica de programação
