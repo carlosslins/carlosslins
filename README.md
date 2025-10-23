@@ -9,11 +9,19 @@
 
 ---
 
-## 🔥 Projetos em Destaque
-> 💡 Atualmente desenvolvendo, com 4 colegas, um **jogo RPG no terminal em Java** com o tema **“Laço de Repetição”**, onde o jogador precisa escapar de uma caverna misteriosa.  
-> *(Em breve adicionarei outros projetos no meu perfil!)*  
+## 📋 Projetos Atuais
+> 💡 Atualmente estou desenvolvendo, com 4 colegas, um **jogo RPG no terminal em Java** com o tema **“Laço de Repetição”**, onde o jogador precisa escapar de uma caverna misteriosa respondendo perguntas relacionadas ao tema.
 
 ---
+---
 
-<a href = "https://www.linkedin.com/in/carlos-eduardo-silva-lins-85534a25b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for=the-badge&logo=Linkedun&logoColor=white" target="_blank"></a>
+## 🌐 Entre em contato comigo
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/carlos-eduardo-silva-lins-85534a25b/)
+[![Email](https://img.shields.io/badge/Email-carloseslins.contato%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:carloseslins.contato@gmail.com)
+
+
+</div>
+
+---
