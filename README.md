@@ -1,6 +1,7 @@
 <h1 align="center">👋 Olá! Eu me chamo Carlos Eduardo Silva Lins</strong></h1>
 
-- 📒 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS)
+- 👦🏾 18 Anos
+- 👨🏾‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) - 1° Semestre
 - 💻 Estudando Java , banco de dados e lógica de programação
 - 🎯 Estou em busca de adquirir conhecimento e assim conseguir minha primeira oportunidade de emprego na área
 - 🌎 Inglês (Básico)
