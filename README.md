@@ -1,10 +1,14 @@
 <h1 align="center">👋 Olá! Eu me chamo Carlos Eduardo Silva Lins</strong></h1>
 
-- 👦🏾 18 Anos
-- 👨🏾‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) - 1° Semestre
-- 💻 Estudando Java , banco de dados e lógica de programação
-- 🎯 Estou em busca de adquirir conhecimento e assim conseguir minha primeira oportunidade de emprego na área
-- 🌎 Inglês (Básico)
+Sou estudante de Análise e Desenvolvimento de Sistemas no Senac São Paulo, atualmente no 1º semestre, e estou construindo minha trajetória na área de tecnologia. Tenho grande interesse em desenvolvimento de software, com foco em Java, banco de dados e lógica de programação.
+
+Busco minha primeira oportunidade profissional em TI, onde eu possa colocar em prática o que venho aprendendo, desenvolver novas habilidades e contribuir com soluções que façam diferença no dia a dia das pessoas e das empresas.
+
+Tenho bastante curiosidade, sou dedicado e gosto de aprender com desafios. Acredito que a tecnologia é uma ferramenta poderosa para transformar o mundo — quero contribuir e fazer a diferença nessa transformação.
+
+💻 Estudando: Java, SQL, Lógica de Programação
+🌱 Objetivo: Estágio ou oportunidade de aprendizado na área de Desenvolvimento
+📍 São Paulo – SP
 <div>
 </div>
 
