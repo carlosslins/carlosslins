@@ -3,7 +3,7 @@
 - 👦🏾 18 anos
 - 👨🏾‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) - 1° Semestre
 - 💻 Estudando Java, banco de dados e lógica de programação
-- 🎯 Estou em busca de adquirir conhecimento e assim conseguir minha primeira oportunidade de emprego na área
+- 🎯 Busco minha primeira oportunidade profissional em TI, onde eu possa colocar em prática o que venho aprendendo, desenvolver novas habilidades e contribuir com soluções que façam diferença no dia a dia das pessoas e das empresas.
 - 🌎 Inglês (Básico)
 <div>
 </div>
